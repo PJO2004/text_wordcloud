@@ -1,3 +1,5 @@
 requests
 BeautifulSoup4
 wordcloud
+numpy
+pillow
